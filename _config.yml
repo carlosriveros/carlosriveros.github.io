@@ -1,7 +1,7 @@
 # Site
 title:              'Carlos Riveros'
-bio:                'My name is Carlos Riveros and I am a Software Developer with a passion for Javascript'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'My name is Carlos Riveros and I am a Software Developer with a passion for Javascript.'
+description:        'My name is Carlos Riveros and I am a Software Developer with a passion for Javascript.'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/carlos.png'
